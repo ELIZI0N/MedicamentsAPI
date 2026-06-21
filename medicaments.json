@@ -7,10 +7,7 @@
       "form": "таблетки",
       "description": "Анальгетик и антипиретик. Применяется при головной боли, зубной боли, лихорадке.",
       "instructions": "Взрослым по 1-2 таблетки 3-4 раза в день. Принимать после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/1/200/200",
-      "active_substance": "парацетамол",
-      "contraindications": "Заболевания печени, алкоголизм, возраст до 3 лет",
-      "side_effects": "Аллергия, тошнота, повышение печеночных ферментов"
+      "image_url": "https://github.com/ELIZI0N/photos/id/1/200/200"
     },
     {
       "id": 2,
@@ -19,10 +16,7 @@
       "form": "капсулы",
       "description": "Антибиотик широкого спектра действия. Применяется при инфекциях дыхательных путей.",
       "instructions": "По 1 капсуле 3 раза в день в течение 5-7 дней.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/2/200/200",
-      "active_substance": "амоксициллин",
-      "contraindications": "Аллергия на пенициллины, инфекционный мононуклеоз",
-      "side_effects": "Диарея, сыпь, тошнота"
+      "image_url": "https://github.com/ELIZI0N/photos/id/2/200/200"
     },
     {
       "id": 3,
@@ -31,10 +25,7 @@
       "form": "таблетки",
       "description": "Нестероидный противовоспалительный препарат. Снимает боль, воспаление, жар.",
       "instructions": "По 1-2 таблетки 3 раза в день, запивая водой.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/3/200/200",
-      "active_substance": "ибупрофен",
-      "contraindications": "Язва желудка, бронхиальная астма, беременность (III триместр)",
-      "side_effects": "Изжога, головокружение, отеки"
+      "image_url": "https://github.com/ELIZI0N/photos/id/3/200/200"
     },
     {
       "id": 4,
@@ -43,10 +34,7 @@
       "form": "таблетки",
       "description": "Гипотензивное средство. Применяется при гипертонической болезни.",
       "instructions": "По 1 таблетке 1 раз в день, независимо от приема пищи.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/4/200/200",
-      "active_substance": "лозартан калия",
-      "contraindications": "Беременность, лактация, гиперкалиемия",
-      "side_effects": "Головокружение, усталость, гипотензия"
+      "image_url": "https://github.com/ELIZI0N/photos/id/4/200/200"
     },
     {
       "id": 5,
@@ -55,10 +43,7 @@
       "form": "таблетки",
       "description": "Снижает уровень холестерина. Применяется для профилактики инфаркта и инсульта.",
       "instructions": "По 1 таблетке 1 раз в день, вечером.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/5/200/200",
-      "active_substance": "аторвастатин",
-      "contraindications": "Активные заболевания печени, беременность",
-      "side_effects": "Мышечные боли, повышение печеночных ферментов"
+      "image_url": "https://github.com/ELIZI0N/photos/id/5/200/200"
     },
     {
       "id": 6,
@@ -67,10 +52,7 @@
       "form": "таблетки",
       "description": "Противодиабетическое средство. Применяется при сахарном диабете 2 типа.",
       "instructions": "По 1 таблетке 2-3 раза в день во время еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/6/200/200",
-      "active_substance": "метформин",
-      "contraindications": "Почечная недостаточность, кетоацидоз",
-      "side_effects": "Диарея, тошнота, металлический привкус"
+      "image_url": "https://github.com/ELIZI0N/photos/id/6/200/200"
     },
     {
       "id": 7,
@@ -79,10 +61,7 @@
       "form": "таблетки",
       "description": "НПВП. Применяется при болях в суставах, спине, остеоартрозе.",
       "instructions": "По 1 таблетке 2-3 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/7/200/200",
-      "active_substance": "диклофенак натрия",
-      "contraindications": "Язва желудка, аспириновая астма",
-      "side_effects": "Гастралгия, эрозии ЖКТ, головная боль"
+      "image_url": "https://github.com/ELIZI0N/photos/id/7/200/200"
     },
     {
       "id": 8,
@@ -91,10 +70,7 @@
       "form": "капсулы",
       "description": "Ингибитор протонной помпы. Снижает кислотность желудка.",
       "instructions": "По 1 капсуле 1 раз в день утром за 30 минут до еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/8/200/200",
-      "active_substance": "омепразол",
-      "contraindications": "Атрофический гастрит, одновременный прием с атазанавиром",
-      "side_effects": "Головная боль, запор, метеоризм"
+      "image_url": "https://github.com/ELIZI0N/photos/id/8/200/200"
     },
     {
       "id": 9,
@@ -103,10 +79,7 @@
       "form": "таблетки",
       "description": "Антигистаминный препарат. Применяется при аллергии.",
       "instructions": "По 1 таблетке 1 раз в день, вечером.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/9/200/200",
-      "active_substance": "цетиризина гидрохлорид",
-      "contraindications": "Почечная недостаточность, беременность",
-      "side_effects": "Сонливость, сухость во рту"
+      "image_url": "https://github.com/ELIZI0N/photos/id/9/200/200"
     },
     {
       "id": 10,
@@ -115,10 +88,7 @@
       "form": "таблетки",
       "description": "Спазмолитик. Снимает спазмы гладкой мускулатуры.",
       "instructions": "По 1-2 таблетки 2-3 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/10/200/200",
-      "active_substance": "дротаверина гидрохлорид",
-      "contraindications": "Тяжелая печеночная недостаточность, низкое АД",
-      "side_effects": "Тахикардия, головокружение"
+      "image_url": "https://github.com/ELIZI0N/photos/id/10/200/200"
     },
     {
       "id": 11,
@@ -127,10 +97,7 @@
       "form": "таблетки",
       "description": "Антигипертензивное средство. Применяется при гипертонии и стенокардии.",
       "instructions": "По 1 таблетке 1 раз в день утром.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/11/200/200",
-      "active_substance": "амлодипин",
-      "contraindications": "Выраженная гипотензия, шок",
-      "side_effects": "Отеки лодыжек, покраснение лица"
+      "image_url": "https://github.com/ELIZI0N/photos/id/11/200/200"
     },
     {
       "id": 12,
@@ -139,10 +106,7 @@
       "form": "капсулы",
       "description": "Антибиотик макролид. Применяется при инфекциях дыхательных путей и кожи.",
       "instructions": "По 1 капсуле 1 раз в день за 1 час до еды в течение 3 дней.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/12/200/200",
-      "active_substance": "азитромицин",
-      "contraindications": "Аллергия на макролиды, тяжелые нарушения печени",
-      "side_effects": "Диарея, боль в животе"
+      "image_url": "https://github.com/ELIZI0N/photos/id/12/200/200"
     },
     {
       "id": 13,
@@ -151,10 +115,7 @@
       "form": "таблетки",
       "description": "Антиагрегант. Применяется для профилактики тромбозов.",
       "instructions": "По 1 таблетке 1 раз в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/13/200/200",
-      "active_substance": "ацетилсалициловая кислота + магния гидроксид",
-      "contraindications": "Язва желудка, геморрагический диатез",
-      "side_effects": "Изжога, кровоточивость"
+      "image_url": "https://github.com/ELIZI0N/photos/id/13/200/200"
     },
     {
       "id": 14,
@@ -163,10 +124,7 @@
       "form": "капсулы",
       "description": "Противодиарейное средство. Применяется при острой и хронической диарее.",
       "instructions": "Принимать по 1 капсуле после каждого жидкого стула, но не более 8 капсул в сутки.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/14/200/200",
-      "active_substance": "лоперамид",
-      "contraindications": "Дизентерия, кишечная непроходимость",
-      "side_effects": "Запор, вздутие живота"
+      "image_url": "https://github.com/ELIZI0N/photos/id/14/200/200"
     },
     {
       "id": 15,
@@ -175,10 +133,7 @@
       "form": "таблетки",
       "description": "Антибиотик. Применяется при инфекциях дыхательных путей, Helicobacter pylori.",
       "instructions": "По 1 таблетке 2 раза в день в течение 7-14 дней.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/15/200/200",
-      "active_substance": "кларитромицин",
-      "contraindications": "Аллергия на макролиды, гипокалиемия",
-      "side_effects": "Диарея, головная боль, изменения вкуса"
+      "image_url": "https://github.com/ELIZI0N/photos/id/15/200/200"
     },
     {
       "id": 16,
@@ -187,10 +142,7 @@
       "form": "таблетки",
       "description": "Антигистаминный препарат. Применяется при аллергических заболеваниях.",
       "instructions": "По 1 таблетке 3-4 раза в день во время еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/16/200/200",
-      "active_substance": "хлоропирамин",
-      "contraindications": "Беременность, лактация, язва желудка",
-      "side_effects": "Сонливость, сухость во рту"
+      "image_url": "https://github.com/ELIZI0N/photos/id/16/200/200"
     },
     {
       "id": 17,
@@ -199,10 +151,7 @@
       "form": "таблетки",
       "description": "Блокатор H2-гистаминовых рецепторов. Снижает кислотность желудка.",
       "instructions": "По 1 таблетке 1-2 раза в день перед едой.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/17/200/200",
-      "active_substance": "фамотидин",
-      "contraindications": "Беременность, детский возраст",
-      "side_effects": "Головная боль, запор"
+      "image_url": "https://github.com/ELIZI0N/photos/id/17/200/200"
     },
     {
       "id": 18,
@@ -211,10 +160,7 @@
       "form": "таблетки",
       "description": "Бета-адреноблокатор. Применяется при гипертонии и сердечной недостаточности.",
       "instructions": "По 1 таблетке 1 раз в день утром.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/18/200/200",
-      "active_substance": "бисопролол",
-      "contraindications": "Брадикардия, кардиогенный шок",
-      "side_effects": "Утомляемость, замедление пульса"
+      "image_url": "https://github.com/ELIZI0N/photos/id/18/200/200"
     },
     {
       "id": 19,
@@ -223,10 +169,7 @@
       "form": "таблетки",
       "description": "Ингибитор АПФ. Применяется при гипертонии и сердечной недостаточности.",
       "instructions": "По 1 таблетке 1-2 раза в день независимо от еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/19/200/200",
-      "active_substance": "эналаприл",
-      "contraindications": "Беременность, стеноз почечных артерий",
-      "side_effects": "Сухой кашель, головокружение"
+      "image_url": "https://github.com/ELIZI0N/photos/id/19/200/200"
     },
     {
       "id": 20,
@@ -235,10 +178,7 @@
       "form": "таблетки",
       "description": "Ферментный препарат. Применяется при нарушении пищеварения.",
       "instructions": "По 1-2 таблетки во время еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/20/200/200",
-      "active_substance": "панкреатин",
-      "contraindications": "Острый панкреатит",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/20/200/200"
     },
     {
       "id": 21,
@@ -247,10 +187,7 @@
       "form": "таблетки",
       "description": "НПВП. Применяется при болях в суставах, мышцах, лихорадке.",
       "instructions": "По 1 таблетке 2 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/21/200/200",
-      "active_substance": "нимесулид",
-      "contraindications": "Язва желудка, заболевания печени",
-      "side_effects": "Изжога, сонливость"
+      "image_url": "https://github.com/ELIZI0N/photos/id/21/200/200"
     },
     {
       "id": 22,
@@ -259,10 +196,7 @@
       "form": "таблетки",
       "description": "Ингибитор АПФ. Применяется при гипертонии, сердечной недостаточности.",
       "instructions": "По 1 таблетке 1 раз в день утром.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/22/200/200",
-      "active_substance": "лизиноприл",
-      "contraindications": "Беременность, отек Квинке в анамнезе",
-      "side_effects": "Головокружение, кашель"
+      "image_url": "https://github.com/ELIZI0N/photos/id/22/200/200"
     },
     {
       "id": 23,
@@ -271,10 +205,7 @@
       "form": "таблетки",
       "description": "Муколитическое средство. Применяется при кашле с трудноотделяемой мокротой.",
       "instructions": "По 1 таблетке 2-3 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/23/200/200",
-      "active_substance": "амброксола гидрохлорид",
-      "contraindications": "Язвенная болезнь, беременность (I триместр)",
-      "side_effects": "Тошнота, сухость во рту"
+      "image_url": "https://github.com/ELIZI0N/photos/id/23/200/200"
     },
     {
       "id": 24,
@@ -283,10 +214,7 @@
       "form": "капсулы",
       "description": "Противогрибковое средство. Применяется при кандидозе.",
       "instructions": "Однократно 1 капсула внутрь.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/24/200/200",
-      "active_substance": "флуконазол",
-      "contraindications": "Аллергия на флуконазол, беременность",
-      "side_effects": "Головная боль, тошнота"
+      "image_url": "https://github.com/ELIZI0N/photos/id/24/200/200"
     },
     {
       "id": 25,
@@ -295,10 +223,7 @@
       "form": "капсулы",
       "description": "Венотонизирующее средство. Применяется при варикозном расширении вен.",
       "instructions": "По 1 капсуле 2 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/25/200/200",
-      "active_substance": "троксерутин",
-      "contraindications": "Язва желудка, беременность (I триместр)",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/25/200/200"
     },
     {
       "id": 26,
@@ -307,10 +232,7 @@
       "form": "таблетки",
       "description": "Противорвотное средство. Применяется при тошноте, рвоте.",
       "instructions": "По 1 таблетке 3 раза в день за 30 минут до еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/26/200/200",
-      "active_substance": "метоклопрамид",
-      "contraindications": "Кровотечение из ЖКТ, эпилепсия",
-      "side_effects": "Сонливость, экстрапирамидные нарушения"
+      "image_url": "https://github.com/ELIZI0N/photos/id/26/200/200"
     },
     {
       "id": 27,
@@ -319,10 +241,7 @@
       "form": "гранулы",
       "description": "Антибиотик. Применяется при остром цистите.",
       "instructions": "Растворить в воде, принять однократно на ночь после опорожнения мочевого пузыря.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/27/200/200",
-      "active_substance": "фосфомицин трометамол",
-      "contraindications": "Почечная недостаточность, возраст до 12 лет",
-      "side_effects": "Диарея, изжога"
+      "image_url": "https://github.com/ELIZI0N/photos/id/27/200/200"
     },
     {
       "id": 28,
@@ -331,10 +250,7 @@
       "form": "таблетки",
       "description": "Спазмолитик. Применяется при спазмах гладкой мускулатуры.",
       "instructions": "По 1-2 таблетки 2-3 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/28/200/200",
-      "active_substance": "дротаверина гидрохлорид",
-      "contraindications": "Тяжелая почечная недостаточность",
-      "side_effects": "Головокружение, бессонница"
+      "image_url": "https://github.com/ELIZI0N/photos/id/28/200/200"
     },
     {
       "id": 29,
@@ -343,10 +259,7 @@
       "form": "капсулы",
       "description": "Гепатопротектор. Применяется при заболеваниях печени.",
       "instructions": "По 2 капсулы 3 раза в день во время еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/29/200/200",
-      "active_substance": "эссенциальные фосфолипиды",
-      "contraindications": "Повышенная чувствительность",
-      "side_effects": "Легкие желудочно-кишечные расстройства"
+      "image_url": "https://github.com/ELIZI0N/photos/id/29/200/200"
     },
     {
       "id": 30,
@@ -355,10 +268,7 @@
       "form": "порошок",
       "description": "Противодиарейное средство. Применяется при диарее, изжоге.",
       "instructions": "Содержимое пакетика растворить в воде, принимать 3 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/30/200/200",
-      "active_substance": "диоктаэдрический смектит",
-      "contraindications": "Кишечная непроходимость",
-      "side_effects": "Запор"
+      "image_url": "https://github.com/ELIZI0N/photos/id/30/200/200"
     },
     {
       "id": 31,
@@ -367,10 +277,7 @@
       "form": "капли",
       "description": "Седативное средство. Применяется при тахикардии, бессоннице.",
       "instructions": "По 15-20 капель 2-3 раза в день до еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/31/200/200",
-      "active_substance": "фенобарбитал + этилбромизовалерианат",
-      "contraindications": "Беременность, лактация",
-      "side_effects": "Сонливость, головокружение"
+      "image_url": "https://github.com/ELIZI0N/photos/id/31/200/200"
     },
     {
       "id": 32,
@@ -379,10 +286,7 @@
       "form": "капли",
       "description": "Витамин D3. Применяется для профилактики рахита.",
       "instructions": "По 1-2 капли в день, растворять в воде или молоке.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/32/200/200",
-      "active_substance": "колекальциферол",
-      "contraindications": "Гиперкальциемия, почечная недостаточность",
-      "side_effects": "Гиперкальциемия при передозировке"
+      "image_url": "https://github.com/ELIZI0N/photos/id/32/200/200"
     },
     {
       "id": 33,
@@ -391,10 +295,7 @@
       "form": "раствор",
       "description": "Антисептик. Применяется для обработки ран, слизистых.",
       "instructions": "Орошать пораженную поверхность 3-4 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/33/200/200",
-      "active_substance": "мирамистин",
-      "contraindications": "Повышенная чувствительность",
-      "side_effects": "Легкое жжение"
+      "image_url": "https://github.com/ELIZI0N/photos/id/33/200/200"
     },
     {
       "id": 34,
@@ -403,10 +304,7 @@
       "form": "капсулы",
       "description": "Пробиотик. Применяется при дисбактериозе.",
       "instructions": "По 2 капсулы 3 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/34/200/200",
-      "active_substance": "лиофилизат молочнокислых бактерий",
-      "contraindications": "Повышенная чувствительность",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/34/200/200"
     },
     {
       "id": 35,
@@ -415,10 +313,7 @@
       "form": "капли",
       "description": "Седативное средство. Применяется при неврозах, тахикардии.",
       "instructions": "По 15-30 капель 2-3 раза в день до еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/35/200/200",
-      "active_substance": "фенобарбитал + этилбромизовалеринат",
-      "contraindications": "Тяжелая почечная недостаточность",
-      "side_effects": "Сонливость"
+      "image_url": "https://github.com/ELIZI0N/photos/id/35/200/200"
     },
     {
       "id": 36,
@@ -427,10 +322,7 @@
       "form": "порошок",
       "description": "Средство от простуды. Снимает симптомы гриппа и ОРВИ.",
       "instructions": "Растворить 1 пакетик в горячей воде. Принимать 3-4 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/36/200/200",
-      "active_substance": "парацетамол + фенилэфрин + фенирамин",
-      "contraindications": "Портальная гипертензия, беременность",
-      "side_effects": "Сонливость, сухость во рту"
+      "image_url": "https://github.com/ELIZI0N/photos/id/36/200/200"
     },
     {
       "id": 37,
@@ -439,10 +331,7 @@
       "form": "таблетки жевательные",
       "description": "Антацид. Применяется при изжоге.",
       "instructions": "Разжевывать по 1-2 таблетки при появлении изжоги.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/37/200/200",
-      "active_substance": "кальция карбонат + магния карбонат",
-      "contraindications": "Почечная недостаточность",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/37/200/200"
     },
     {
       "id": 38,
@@ -451,10 +340,7 @@
       "form": "таблетки",
       "description": "Гормональный препарат. Применяется при недостаточности прогестерона.",
       "instructions": "По назначению врача, обычно по 1 таблетке 2-3 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/38/200/200",
-      "active_substance": "дидрогестерон",
-      "contraindications": "Заболевания печени, рак молочной железы",
-      "side_effects": "Головная боль, тошнота"
+      "image_url": "https://github.com/ELIZI0N/photos/id/38/200/200"
     },
     {
       "id": 39,
@@ -463,10 +349,7 @@
       "form": "капсулы",
       "description": "Гепатопротектор. Применяется при желчнокаменной болезни.",
       "instructions": "По 1 капсуле 2-3 раза в день, запивая водой.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/39/200/200",
-      "active_substance": "урсодезоксихолевая кислота",
-      "contraindications": "Острый холецистит",
-      "side_effects": "Диарея"
+      "image_url": "https://github.com/ELIZI0N/photos/id/39/200/200"
     },
     {
       "id": 40,
@@ -475,10 +358,7 @@
       "form": "аэрозоль",
       "description": "Бронходилататор. Применяется при бронхиальной астме.",
       "instructions": "По 1-2 ингаляции при приступе.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/40/200/200",
-      "active_substance": "сальбутамол",
-      "contraindications": "Тахиаритмия, беременность",
-      "side_effects": "Тремор, тахикардия"
+      "image_url": "https://github.com/ELIZI0N/photos/id/40/200/200"
     },
     {
       "id": 41,
@@ -487,10 +367,7 @@
       "form": "капсулы",
       "description": "Ветрогонное средство. Применяется при метеоризме.",
       "instructions": "По 2 капсулы 3-5 раз в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/41/200/200",
-      "active_substance": "симетикон",
-      "contraindications": "Кишечная непроходимость",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/41/200/200"
     },
     {
       "id": 42,
@@ -499,10 +376,7 @@
       "form": "таблетки",
       "description": "Антигистаминный препарат. Применяется при аллергии.",
       "instructions": "По 1 таблетке 1 раз в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/42/200/200",
-      "active_substance": "цетиризина гидрохлорид",
-      "contraindications": "Почечная недостаточность, беременность",
-      "side_effects": "Сонливость"
+      "image_url": "https://github.com/ELIZI0N/photos/id/42/200/200"
     },
     {
       "id": 43,
@@ -511,10 +385,7 @@
       "form": "таблетки",
       "description": "Ноотропное средство. Применяется при тревоге, бессоннице.",
       "instructions": "По 1 таблетке 2-3 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/43/200/200",
-      "active_substance": "аминофенилмасляная кислота",
-      "contraindications": "Беременность, язва желудка",
-      "side_effects": "Сонливость, тошнота"
+      "image_url": "https://github.com/ELIZI0N/photos/id/43/200/200"
     },
     {
       "id": 44,
@@ -523,10 +394,7 @@
       "form": "таблетки",
       "description": "Ноотропное средство. Применяется при нарушении памяти.",
       "instructions": "По 1 таблетке 2-3 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/44/200/200",
-      "active_substance": "гопантеновая кислота",
-      "contraindications": "Почечная недостаточность",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/44/200/200"
     },
     {
       "id": 45,
@@ -535,10 +403,7 @@
       "form": "таблетки",
       "description": "Антиоксидант. Применяется при нарушении мозгового кровообращения.",
       "instructions": "По 1-2 таблетки 2-3 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/45/200/200",
-      "active_substance": "этилметилгидроксипиридина сукцинат",
-      "contraindications": "Почечная недостаточность, беременность",
-      "side_effects": "Тошнота, сухость во рту"
+      "image_url": "https://github.com/ELIZI0N/photos/id/45/200/200"
     },
     {
       "id": 46,
@@ -547,10 +412,7 @@
       "form": "таблетки",
       "description": "Анксиолитик. Применяется при тревожных состояниях.",
       "instructions": "По 1 таблетке 3 раза в день после еды.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/46/200/200",
-      "active_substance": "морфолинийэтилтиоэтоксибензимидазол",
-      "contraindications": "Беременность, лактация",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/46/200/200"
     },
     {
       "id": 47,
@@ -559,10 +421,7 @@
       "form": "таблетки",
       "description": "Иммуномодулятор. Применяется при гриппе, ОРВИ.",
       "instructions": "По 2-4 таблетки 1 раз в день по схеме.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/47/200/200",
-      "active_substance": "акридонуксусная кислота",
-      "contraindications": "Беременность, лактация",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/47/200/200"
     },
     {
       "id": 48,
@@ -571,10 +430,7 @@
       "form": "капсулы",
       "description": "Противовирусное средство. Применяется при гриппе и ОРВИ.",
       "instructions": "По 1 капсуле 4 раза в день в течение 5 дней.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/48/200/200",
-      "active_substance": "умифеновир",
-      "contraindications": "Повышенная чувствительность",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/48/200/200"
     },
     {
       "id": 49,
@@ -583,10 +439,7 @@
       "form": "капсулы",
       "description": "Противовирусное средство. Применяется при гриппе и ОРВИ.",
       "instructions": "По 1 капсуле 1 раз в день в течение 5-7 дней.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/49/200/200",
-      "active_substance": "имидазолилэтанамид пентандиовой кислоты",
-      "contraindications": "Беременность, лактация",
-      "side_effects": "Аллергические реакции"
+      "image_url": "https://github.com/ELIZI0N/photos/id/49/200/200"
     },
     {
       "id": 50,
@@ -595,10 +448,7 @@
       "form": "спрей",
       "description": "Противовоспалительное средство. Применяется при заболеваниях горла.",
       "instructions": "По 4-8 впрыскиваний 3-4 раза в день.",
-      "image_url": "https://github.com/ELIZI0N/photos/id/50/200/200",
-      "active_substance": "бензидамин",
-      "contraindications": "Повышенная чувствительность",
-      "side_effects": "Онемение слизистой"
+      "image_url": "https://github.com/ELIZI0N/photos/id/50/200/200"
     }
   ]
-}https://github.com/ELIZI0N/practic
+}
